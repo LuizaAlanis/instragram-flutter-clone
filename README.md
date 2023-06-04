@@ -1,14 +1,11 @@
-# :smirk_cat: Instagram UI Clone
-
-I'm just learning Flutter
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Clone+for+study+<3)](https://git.io/typing-svg)
 
 <p align="center">
-  <kbd>
-    <img src="https://github.com/LuizaAlanis/instragram-flutter-clone/blob/master/lib/assets/images/cover.png" />
-  </kbd>
+  <img src="https://github.com/LuizaAlanis/instragram-flutter-clone/blob/master/lib/assets/images/cover.png" />
 </p>
+<p align="center"> I'm just learning Flutter :smirk_cat: </p>
 
-## :octocat: Installation
+#### :octocat: Installation
 
 Clone the repository
 
