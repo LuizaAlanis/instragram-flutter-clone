@@ -1,16 +1,22 @@
-# basics
+# :smirk_cat: Instagram UI Clone
 
-A new Flutter project.
+I'm just learning Flutter
 
-## Getting Started
+<p align="center">
+  <kbd>
+    <img src="https://github.com/LuizaAlanis/instragram-flutter-clone/blob/master/lib/assets/images/cover.png" />
+  </kbd>
+</p>
 
-This project is a starting point for a Flutter application.
+## :octocat: Installation
 
-A few resources to get you started if this is your first Flutter project:
+Clone the repository
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+git@github.com:LuizaAlanis/instragram-flutter-clone.git
+
+```
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
